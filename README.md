@@ -3,8 +3,8 @@
 </p>
 <hr style="border: 1px solid #000000;" />
 
-<p align="center" width="120">
-  **Обо мне** :
+<p align="center">
+  <strong style="font-size: 24px;">Обо мне :</strong>
 </p>
 
 <p align="center">
