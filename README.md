@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hacker123ter&style=flat-square&color=blue" alt="" width="180"/>
 </p>
----
+<hr style="border: 1px solid #000000;" />
 ### Обо мне :
 
 😺: Я Junior Java-разработчик!
@@ -23,4 +23,4 @@
 ### Для связи:
   
 - Discord: <span style="color: blue;">`luckytsb`</span>
----
+<hr style="border: 1px solid #000000;" />
