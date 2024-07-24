@@ -31,61 +31,61 @@
 
 ### :hammer_and_wrench: Языки и инструменты :
 
-<div>
+<div style="text-align: center;">
   <a href="https://www.java.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="35" height="35"/>
-  </a>&nbsp;
+  </a>
   <a href="https://www.mysql.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="35" height="35"/>
-  </a>&nbsp;
+  </a>
   <a href="https://www.oracle.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="35" height="35"/>
-  </a>&nbsp;
+  </a>
   <a href="https://www.jetbrains.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetB" alt="JetB" width="35" height="35"/>
-  </a>&nbsp;
+  </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Idea" alt="Idea" width="35" height="35"/>
-  </a>&nbsp;
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain-wordmark.svg" title="VSCode" alt="VSCode" width="35" height="35"/>
-  </a>&nbsp;
+  </a>
   <a href="https://yaml.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="Yaml" alt="Yaml" width="35" height="35"/>
-  </a>&nbsp;
+  </a>
   <a href="https://www.w3schools.com/xml/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="Xml" alt="Xml" width="35" height="35"/>
-  </a>&nbsp;
+  </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="35" height="35"/>
-  </a>&nbsp;
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="35" height="35"/>
-  </a>&nbsp;
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>
-  </a>&nbsp;
+  </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Py" alt="Py" width="35" height="35"/>
-  </a>&nbsp;
+  </a>
   <a href="https://www.php.net" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PhP" alt="PhP" width="35" height="35"/>
-  </a>&nbsp;
+  </a>
   <a href="https://maven.apache.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Maven" alt="Maven" width="35" height="35"/>
-  </a>&nbsp;
+  </a>
   <a href="https://www.microsoft.com/en-us/windows" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Win" alt="Win" width="35" height="35"/>
-  </a>&nbsp;
+  </a>
   <a href="https://www.minecraft.net" target="_blank">
     <img src="https://github.com/rjp2525/Minecraft-Icons/blob/master/SVG/melon.svg" title="Minecraft" alt="Minecraft" width="35" height="35"/>
-  </a>&nbsp;
+  </a>
   <a href="https://github.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="35" height="35"/>
-  </a>&nbsp;
+  </a>
   <a href="https://about.gitlab.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="35" height="35"/>
-  </a>&nbsp;
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="35" height="35"/>
   </a>
