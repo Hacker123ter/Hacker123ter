@@ -1,6 +1,9 @@
 <div id="header" align="center">
 <h1>Всем привет! </h1>
 
+<a><img heigh=200 align="center" scr="https://github-readme-stats.vercel.app/api?username=hacker123ter&theme=great-gatsby&show_icons=true"></a>
+<a><img heigh=200 align="center" scr="https://streak-stats.demolab.com?user=hacker123ter&theme=transparent"></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacker123ter&theme=great-gatsby&show_icons=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=hacker123ter&theme=transparent)
 
@@ -9,9 +12,7 @@
 <hr style="border: 1px solid #000000;" />
 
 <p align="center">
-
-### Обо мне:
-
+**Обо мне:**
 </p>
 <p align="center">
   <h3>Я Junior Java-разработчик!</h3><br>
