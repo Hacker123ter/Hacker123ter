@@ -1,7 +1,8 @@
 <div id="header" align="center">
 <h1>   Я Junior Java-разработчик! </h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacker123ter)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacker123ter)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hacker123ter&theme=tokyonight&border_radius=6.5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
   <img src="https://komarev.com/ghpvc/?username=hacker123ter&style=flat-square&color=blue" alt="" width="180"/>
