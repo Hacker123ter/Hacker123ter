@@ -1,7 +1,7 @@
 <div id="header" align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacker123ter&theme=great-gatsby&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=hacker123ter&theme=transparent&border_radius=6.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=400&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hacker123ter&theme=transparent&border_radius=6.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=350&hide_current_streak=true)](https://git.io/streak-stats)
 
   <img src="https://komarev.com/ghpvc/?username=hacker123ter&style=flat-square&color=blue" alt="" width="180"/>
   </div>
