@@ -31,7 +31,7 @@
 
 ### :hammer_and_wrench: Языки и инструменты :
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.java.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="35" height="35"/>
   </a>
