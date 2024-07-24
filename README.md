@@ -2,7 +2,7 @@
 <h1>Всем привет! </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacker123ter&theme=great-gatsby&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=hacker123ter&theme=transparent)]
+![GitHub Streak](https://streak-stats.demolab.com?user=hacker123ter&theme=transparent)
 
   <img src="https://komarev.com/ghpvc/?username=hacker123ter&style=flat-square&color=blue" alt="" width="180"/>
   </div>
@@ -38,7 +38,7 @@
 
 ### :hammer_and_wrench: Языки и инструменты :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacker123ter&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacker123ter&layout=donut)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
