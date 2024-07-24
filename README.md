@@ -10,9 +10,7 @@
 
 <p align="center">
 
-<h2>
-  Обо мне:
-</h2>
+### Обо мне:
 
 </p>
 <p align="center">
@@ -39,6 +37,8 @@
 <hr style="border: 1px solid #000000;" />
 
 ### :hammer_and_wrench: Языки и инструменты :
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacker123ter&langs_count=8)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
