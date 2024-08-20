@@ -51,7 +51,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=hacker123ter&theme=hacker&hide_border=true&border_radius=6.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=350&card_height=193&hide_current_streak=true)](https://git.io/streak-stats)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hacker123ter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=true&order=2&custom_title=%D0%9C%D0%BE%D1%8F%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%B2" height="150" alt="languages graph"  />
-
-
+\
+\
+\
   <img src="https://komarev.com/ghpvc/?username=hacker123ter&style=flat-square&color=blue" alt="" width="180"/>
   </div>
