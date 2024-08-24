@@ -13,7 +13,7 @@
 
 - 💭: Использую JDK - 1.8; 17; 21; 22; JRE - 1.8; 17; 21.
 
-- 💭: Ядра: Paper, Bukkit, Spigot, Purpur, CraftBukkit, Folia, Pufferfish, Glowstone, Patina. (Остальные ни разу не делал)
+- 💭: Ядра: Paper, Bukkit, Spigot, Purpur, CraftBukkit, Folia, Pufferfish, Glowstone, Patina. (На остальных ни разу не делал.)
 
 - 💭: Proxy Ядра: BungeeCord, Velocity.
   
