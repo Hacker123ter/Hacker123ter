@@ -3,8 +3,14 @@
 <h1 align="center">Обо мне:</h1>
   <h3 align="center">Я Junior Java-разработчик!</h3>
 
-  - ⚓: Владею собственным сайтом с отзывами <a href="https://www.ratevibe.ru" target="_blank" style="color: red;">RateVibe</a>🥺
-  
+  - ⚓: Владею собственным сайтом с отзывами <span style="color:red;">RateVibe.ru</span>.
+
+  <p align="center">
+  <a href="https://ratevibe.ru">
+    <img src="https://i.ibb.co/qdxK6JZ/otzov.png" alt="RateVibe.ru" />
+  </a>
+</p>
+
   - 💬: Я разработчик ПО и плагинов/модификаций для игры Minecraft!
   
   - 🌱: Обучаюсь всему новому!
