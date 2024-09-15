@@ -3,7 +3,7 @@
 <h1 align="center">Обо мне:</h1>
   <h3 align="center">Я Junior Java-разработчик!</h3>
 
-  - ⚓: Владею собственным сайтом с отзывами <span style="color:red;">RateVibe.ru</span>.
+  - ⚓: Владею собственным сайтом с отзывами RateVibe.ru.
 
   <p align="center">
   <a href="https://ratevibe.ru">
