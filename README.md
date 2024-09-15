@@ -7,7 +7,7 @@
 
   <p align="center">
   <a href="https://ratevibe.ru">
-    <img src="https://i.ibb.co/qdxK6JZ/otzov.png" alt="RateVibe.ru" />
+    <img src="https://i.ibb.co/YhFjqM1/otzov.png" alt="RateVibe.ru" />
   </a>
 </p>
 
