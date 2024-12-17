@@ -1,7 +1,8 @@
 <hr style="border: 1px solid #000000;" />
 
 <h1 align="center">Обо мне:</h1>
-  <h3 align="center">Я Junior Java-разработчик!</h3>
+  <h3 align="center">Я Minecraft Junior разработчик!</h3>
+  <h3 align="center">И Middle Java-разработчик!</h3>
 
   - ⚓: Владею собственным сайтом с отзывами RateVibe.ru.
 
